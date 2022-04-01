@@ -14,17 +14,6 @@
 
 -----------------------------------------------------------
 
-### Theming Folder Structure
-
-    theme
-       |
-       |_ index.js
-       |_ colors.js
-       |_ fonts.js
-       |_ metrics.js
-       
------------------------------------------------------------
-
 ### Entire Architecture
 
      src
@@ -36,6 +25,17 @@
        |_ constants
        |_ components
        |_ utils
+      
+-----------------------------------------------------------
+
+### Theming Folder Structure
+
+    theme
+       |
+       |_ index.js
+       |_ colors.js
+       |_ fonts.js
+       |_ metrics.js
        
 
 ### Store | Redux with thunk
