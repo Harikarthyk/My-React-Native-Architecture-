@@ -25,6 +25,19 @@
        
 -----------------------------------------------------------
 
+### Entire Architecture
+
+     src
+       |
+       |_ theme
+       |_ store
+       |_ navigation
+       |_ screens
+       |_ constants
+       |_ components
+       |_ utils
+       
+
 ### Store | Redux with thunk
 
 ````npm i @react-native-async-storage/async-storage redux redux-persist redux-thunk````
