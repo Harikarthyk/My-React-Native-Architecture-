@@ -2,15 +2,15 @@
 
 ### Instal below packages for basic navigation
 
-##### Install @react-navigation/native @react-navigation/stack react-native-gesture-handler @react-navigation/stack @react-native-masked-view/masked-view
+````npm i @react-navigation/native @react-navigation/stack react-native-gesture-handler @react-navigation/stack @react-native-masked-view/masked-view ````
 
 ### Instal below packages for Drawer Navigation
 
-##### Install @react-navigation/drawer react-native-reanimated
+````npm i @react-navigation/drawer react-native-reanimated````
 
 ### Instal below packages for Bottom Tab Navigation
 
-##### Install @react-navigation/bottom-tabs
+````npm @react-navigation/bottom-tabs````
 
 -----------------------------------------------------------
 
@@ -27,7 +27,7 @@
 
 ### Store | Redux with thunk
 
-##### Install @react-native-async-storage/async-storage redux redux-persist redux-thunk
+````npm i @react-native-async-storage/async-storage redux redux-persist redux-thunk````
 
 #### Store Folder Structure
 
@@ -36,3 +36,22 @@
        |_ configStore.js
        |_ reducers
        |_ actions     
+       
+### Constants
+
+    constants
+       |
+       |_ urls.js
+       |_ fonts.js
+       |_ index.js
+       |_ images.js
+ 
+### Assets
+
+    assets
+       |
+       |_ fonts
+       |_ icons
+       |_ images
+       
+    
