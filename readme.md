@@ -16,7 +16,7 @@
 
 ### Theming Folder Structure
 
-##### theme
+    theme
        |
        |_ index.js
        |_ colors.js
@@ -31,7 +31,7 @@
 
 #### Store Folder Structure
 
-##### store
+    store
        |
        |_ configStore.js
        |_ reducers
